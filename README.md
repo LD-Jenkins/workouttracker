@@ -18,7 +18,8 @@ First start by making sure all project files have been downloaded and dependenci
 
 ## Heroku
 
-This project is also ready for deployment to Heroku using MongoDB Atlas.
+This project is also ready for deployment to Heroku using MongoDB Atlas.<br>
+[Checkout my hosted app here!](https://workout-tracker-app-lj.herokuapp.com)
 
 
 # Usage Instructions
